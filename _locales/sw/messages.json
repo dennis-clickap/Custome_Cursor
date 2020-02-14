@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Matumizi mkusanyiko mkubwa wa cursors bure au kupakia yako mwenyewe."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™"
+   },
+   "cursor_size_extra_large": {
+      "message": "Ziada kubwa"
+   },
+   "cursor_size_extra_small": {
+      "message": "Kidogo chache"
+   },
+   "cursor_size_large": {
+      "message": "Kubwa"
+   },
+   "cursor_size_medium": {
+      "message": "Kati"
+   },
+   "cursor_size_small": {
+      "message": "Ndogo"
+   },
+   "delete": {
+      "message": "Futa"
+   },
+   "favorite_by_time": {
+      "message": "kwa Wakati"
+   },
+   "favorite_by_visited_pages": {
+      "message": "na Kurasa"
+   },
+   "favorite_manage_button": {
+      "message": "Simamia Upendayo"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Zungusha vipendwa"
+   },
+   "favorite_sec_page": {
+      "message": "nukta/ukurasa"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Simamia Upendayo"
+   },
+   "item_cursor": {
+      "message": "mshale"
+   },
+   "item_pointer": {
+      "message": "pointer"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Mipangilio ya Ukubwa wa Mlaani"
+   },
+   "manage_manage_collection": {
+      "message": "Dhibiti Ukusanyaji"
+   },
+   "nav_how_to_use": {
+      "message": "Jinsi ya kutumia"
+   },
+   "nav_manage": {
+      "message": "Dhibiti"
+   },
+   "nav_more_cursors": {
+      "message": "Mishale zaidi"
+   },
+   "nav_upload_cursor": {
+      "message": "Pakia mshale"
+   },
+   "options_add_new": {
+      "message": "Ongeza mpya"
+   },
+   "options_upload_recommendations": {
+      "message": "Mapendekezo: \u003Cbr> - Usitumie picha zaidi ya saizi za 128x128; \u003Cbr> - Tumia picha na background ya uwazi, kama .png; \u003Cbr> - Smile mara nyingi;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Pakia cursor yako mwenyewe"
+   },
+   "popup_default_cursor": {
+      "message": "Mchungaji wa Mteja"
+   },
+   "popup_manage": {
+      "message": "Dhibiti"
+   },
+   "popup_more_cursor": {
+      "message": "Mishale zaidi"
+   },
+   "popup_upload_cursor": {
+      "message": "Pakia mshale"
+   },
+   "rate_us_5_stars": {
+      "message": "Tathmini kiwango cha nyota 5, tafadhali"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

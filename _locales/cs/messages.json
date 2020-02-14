@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Zábavné kurzy pro Chrome ™. Použijte velkou kolekci volných kurzorů nebo nahrát vlastní."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Vlastní kurzor"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra velké"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra malý"
+   },
+   "cursor_size_large": {
+      "message": "Velký"
+   },
+   "cursor_size_medium": {
+      "message": "Střední"
+   },
+   "cursor_size_small": {
+      "message": "Malý"
+   },
+   "delete": {
+      "message": "Odstranit"
+   },
+   "favorite_by_time": {
+      "message": "časem"
+   },
+   "favorite_by_visited_pages": {
+      "message": "podle stránek"
+   },
+   "favorite_manage_button": {
+      "message": "Správa oblíbených"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Otočit oblíbené"
+   },
+   "favorite_sec_page": {
+      "message": "sec/stránka"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Správa oblíbených"
+   },
+   "item_cursor": {
+      "message": "kurzor"
+   },
+   "item_pointer": {
+      "message": "ukazatel"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Nastavení velikosti kurzoru"
+   },
+   "manage_manage_collection": {
+      "message": "Správa kolekce"
+   },
+   "nav_how_to_use": {
+      "message": "Jak používat"
+   },
+   "nav_manage": {
+      "message": "Spravovat"
+   },
+   "nav_more_cursors": {
+      "message": "Další kurzory"
+   },
+   "nav_upload_cursor": {
+      "message": "Nahrajte kurzor"
+   },
+   "options_add_new": {
+      "message": "Přidat nový"
+   },
+   "options_upload_recommendations": {
+      "message": "Doporučení: \u003Cbr> - Nepoužívejte obrázky s rozlišením více než 128x128 pixelů, \u003Cbr> - Používejte obrázky s průhledným pozadím, jako je .png; \u003Cbr> - Usmějte se častěji;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Nahrajte vlastní kurzory"
+   },
+   "popup_default_cursor": {
+      "message": "Výchozí kurzor"
+   },
+   "popup_manage": {
+      "message": "Spravovat"
+   },
+   "popup_more_cursor": {
+      "message": "Další kurzory"
+   },
+   "popup_upload_cursor": {
+      "message": "Nahrajte kurzor"
+   },
+   "rate_us_5_stars": {
+      "message": "Ohodnoťte nás 5 hvězdiček, prosímنشانگرهای بیشتر"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Sjove brugerdefinerede markører til Chrome ™. Brug en stor samling gratis cursorer eller upload dine egne."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Markørskifter"
+   },
+   "cursor_size_extra_large": {
+      "message": "Ekstra stor"
+   },
+   "cursor_size_extra_small": {
+      "message": "Ekstra Lille"
+   },
+   "cursor_size_large": {
+      "message": "Stor"
+   },
+   "cursor_size_medium": {
+      "message": "Medium"
+   },
+   "cursor_size_small": {
+      "message": "Lille"
+   },
+   "delete": {
+      "message": "Slet"
+   },
+   "favorite_by_time": {
+      "message": "Med tiden"
+   },
+   "favorite_by_visited_pages": {
+      "message": "af besøgte sider"
+   },
+   "favorite_manage_button": {
+      "message": "Rediger favoritter"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Drej favoritter"
+   },
+   "favorite_sec_page": {
+      "message": "sek/side(r)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Rediger favoritter"
+   },
+   "item_cursor": {
+      "message": "cursoren"
+   },
+   "item_pointer": {
+      "message": "pointer"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Indstillinger for markørstørrelse"
+   },
+   "manage_manage_collection": {
+      "message": "Styre samling"
+   },
+   "nav_how_to_use": {
+      "message": "Sådan bruges"
+   },
+   "nav_manage": {
+      "message": "Styre"
+   },
+   "nav_more_cursors": {
+      "message": "Flere markører"
+   },
+   "nav_upload_cursor": {
+      "message": "Upload markør"
+   },
+   "options_add_new": {
+      "message": "Tilføj ny"
+   },
+   "options_upload_recommendations": {
+      "message": "Anbefalinger: \u003Cbr> - Brug ikke billeder mere end 128x128 pixels; \u003Cbr> - Brug billeder med gennemsigtig baggrund, f.eks. .Png; \u003Cbr> - Smil oftere;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Upload dine egne markører"
+   },
+   "popup_default_cursor": {
+      "message": "Standard markør"
+   },
+   "popup_manage": {
+      "message": "Styre"
+   },
+   "popup_more_cursor": {
+      "message": "Flere markører"
+   },
+   "popup_upload_cursor": {
+      "message": "Upload markør"
+   },
+   "rate_us_5_stars": {
+      "message": "Bedøm os 5 stjerner, tak"
+   },
+   "short_name": {
+      "message": "Brugerdefineret markør"
+   }
+}

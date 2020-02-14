@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Забавные пользовательские курсоры для Chrome ™. Используйте большую коллекцию бесплатных курсоров или загрузите свои собственные."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Изменить курсор"
+   },
+   "cursor_size_extra_large": {
+      "message": "Очень большой"
+   },
+   "cursor_size_extra_small": {
+      "message": "Очень маленький"
+   },
+   "cursor_size_large": {
+      "message": "Большой"
+   },
+   "cursor_size_medium": {
+      "message": "Средний"
+   },
+   "cursor_size_small": {
+      "message": "Небольшой"
+   },
+   "delete": {
+      "message": "Удалить"
+   },
+   "favorite_by_time": {
+      "message": "по Времени"
+   },
+   "favorite_by_visited_pages": {
+      "message": "по посещенным страницам"
+   },
+   "favorite_manage_button": {
+      "message": "Управление избранным"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Ротировать избранное"
+   },
+   "favorite_sec_page": {
+      "message": "сек/стр"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Управление избранным"
+   },
+   "item_cursor": {
+      "message": "Курсор"
+   },
+   "item_pointer": {
+      "message": "Указатель"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Настройки размера курсора"
+   },
+   "manage_manage_collection": {
+      "message": "Управление коллекциями"
+   },
+   "nav_how_to_use": {
+      "message": "Как использовать"
+   },
+   "nav_manage": {
+      "message": "Настройки"
+   },
+   "nav_more_cursors": {
+      "message": "Еще курсоры"
+   },
+   "nav_upload_cursor": {
+      "message": "Загрузить курсор"
+   },
+   "options_add_new": {
+      "message": "Добавить"
+   },
+   "options_upload_recommendations": {
+      "message": "Рекомендации: \u003Cbr> - Не используйте картинки более 128х128 пикселей;\u003Cbr> - Используйте изображения с прозрачным фоном, например .png, или курсоры .cur;\u003Cbr> - Улыбайся чаще ;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Загрузите свои собственные курсоры"
+   },
+   "popup_default_cursor": {
+      "message": "Сбросить"
+   },
+   "popup_manage": {
+      "message": "Настройки"
+   },
+   "popup_more_cursor": {
+      "message": "Еще курсоры"
+   },
+   "popup_upload_cursor": {
+      "message": "Свой курсор"
+   },
+   "rate_us_5_stars": {
+      "message": "Поставьте нам 5 звезд, пожалуйста"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

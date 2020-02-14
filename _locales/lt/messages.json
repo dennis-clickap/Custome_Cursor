@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Chrome™ pritaikyti žymekliai. Naudokite didelę nemokamų žymeklių rinkinį arba įkelkite savo."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Pasirinktinis žymeklis"
+   },
+   "cursor_size_extra_large": {
+      "message": "Labai didelis"
+   },
+   "cursor_size_extra_small": {
+      "message": "Labai mažas"
+   },
+   "cursor_size_large": {
+      "message": "Didelis"
+   },
+   "cursor_size_medium": {
+      "message": "Vidutinis"
+   },
+   "cursor_size_small": {
+      "message": "Mažas"
+   },
+   "delete": {
+      "message": "Ištrinti"
+   },
+   "favorite_by_time": {
+      "message": "laiku"
+   },
+   "favorite_by_visited_pages": {
+      "message": "aplankė puslapiai"
+   },
+   "favorite_manage_button": {
+      "message": "Tvarkyti parankinius"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Pasukti mėgstamiausius"
+   },
+   "favorite_sec_page": {
+      "message": "sek/puslapis"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Tvarkyti parankinius"
+   },
+   "item_cursor": {
+      "message": "žymeklį"
+   },
+   "item_pointer": {
+      "message": "rodyklė"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Kursoriaus dydžio nustatymai"
+   },
+   "manage_manage_collection": {
+      "message": "Valdyti kolekciją"
+   },
+   "nav_how_to_use": {
+      "message": "Kaip naudoti"
+   },
+   "nav_manage": {
+      "message": "Valdyti"
+   },
+   "nav_more_cursors": {
+      "message": "Daugiau žymeklių"
+   },
+   "nav_upload_cursor": {
+      "message": "Įkelkite žymeklį"
+   },
+   "options_add_new": {
+      "message": "Pridėti naują"
+   },
+   "options_upload_recommendations": {
+      "message": "Rekomendacijos: \u003Cbr> - Nenaudokite daugiau nei 128x128 pikselių nuotraukų \u003Cbr> \u003Cbr> - Naudokite skaidrius fonus, pvz., .Png; \u003Cbr> - Smile dažniau;)"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Įkelkite savo žymeklį"
+   },
+   "popup_default_cursor": {
+      "message": "Numatytasis žymeklis"
+   },
+   "popup_manage": {
+      "message": "Valdyti"
+   },
+   "popup_more_cursor": {
+      "message": "Daugiau žymeklių"
+   },
+   "popup_upload_cursor": {
+      "message": "Įkelkite žymeklį"
+   },
+   "rate_us_5_stars": {
+      "message": "Įvertinkite mus 5 žvaigždutėmis"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

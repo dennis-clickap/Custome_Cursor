@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fun cursor kustom untuk Chrome ™. Gunakan banyak koleksi kursor gratis atau unggah milik Anda sendiri."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Pengubah Kursor"
+   },
+   "cursor_size_extra_large": {
+      "message": "Ekstra besar"
+   },
+   "cursor_size_extra_small": {
+      "message": "Ekstra kecil"
+   },
+   "cursor_size_large": {
+      "message": "Besar"
+   },
+   "cursor_size_medium": {
+      "message": "Perantara"
+   },
+   "cursor_size_small": {
+      "message": "Kecil"
+   },
+   "delete": {
+      "message": "Menghapus"
+   },
+   "favorite_by_time": {
+      "message": "Oleh waktu"
+   },
+   "favorite_by_visited_pages": {
+      "message": "oleh Halaman"
+   },
+   "favorite_manage_button": {
+      "message": "Kelola Favorit"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Putar favorit"
+   },
+   "favorite_sec_page": {
+      "message": "detik/halaman"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Kelola Favorit"
+   },
+   "item_cursor": {
+      "message": "kursor"
+   },
+   "item_pointer": {
+      "message": "penunjuk"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Pengaturan Ukuran Kursor"
+   },
+   "manage_manage_collection": {
+      "message": "Kelola Koleksi"
+   },
+   "nav_how_to_use": {
+      "message": "Cara Penggunaan"
+   },
+   "nav_manage": {
+      "message": "Mengelola"
+   },
+   "nav_more_cursors": {
+      "message": "Lebih banyak kursor"
+   },
+   "nav_upload_cursor": {
+      "message": "Unggah kursor"
+   },
+   "options_add_new": {
+      "message": "Tambah baru"
+   },
+   "options_upload_recommendations": {
+      "message": "Rekomendasi: \u003Cbr> - Jangan gunakan gambar lebih dari 128x128 piksel; \u003Cbr> - Gunakan gambar dengan latar transparan, seperti .png; \u003Cbr> - Senyum lebih sering;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Unggah kursor Anda sendiri"
+   },
+   "popup_default_cursor": {
+      "message": "Kursor Default"
+   },
+   "popup_manage": {
+      "message": "Mengelola"
+   },
+   "popup_more_cursor": {
+      "message": "Lebih banyak kursor"
+   },
+   "popup_upload_cursor": {
+      "message": "Unggah kursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Beri kami 5 bintang, tolong"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

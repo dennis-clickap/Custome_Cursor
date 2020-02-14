@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fun cursors personalitzats per a Chrome ™. Utilitzeu una gran col · lecció de cursors gratuïts o carregueu els vostres propis."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™: canviador de cursors"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra Gran"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra Petit"
+   },
+   "cursor_size_large": {
+      "message": "Gran"
+   },
+   "cursor_size_medium": {
+      "message": "Mitjà"
+   },
+   "cursor_size_small": {
+      "message": "Petit"
+   },
+   "delete": {
+      "message": "Suprimeix"
+   },
+   "favorite_by_time": {
+      "message": "pel Temps"
+   },
+   "favorite_by_visited_pages": {
+      "message": "per Pàgines visitades"
+   },
+   "favorite_manage_button": {
+      "message": "Gestiona els preferits"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Gira els favorits"
+   },
+   "favorite_sec_page": {
+      "message": "s/pàgina"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Gestiona els preferits"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "punter"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Configuració de la mida del cursor"
+   },
+   "manage_manage_collection": {
+      "message": "Gestiona la col·lecció"
+   },
+   "nav_how_to_use": {
+      "message": "Com utilitzar"
+   },
+   "nav_manage": {
+      "message": "Gestiona"
+   },
+   "nav_more_cursors": {
+      "message": "Més cursors"
+   },
+   "nav_upload_cursor": {
+      "message": "Càrrega el cursor"
+   },
+   "options_add_new": {
+      "message": "Afegir nou"
+   },
+   "options_upload_recommendations": {
+      "message": "Recomanacions: \u003Cbr> - No utilitzis imatges de més de 128x128 píxels; \u003Cbr> - Utilitza imatges amb un fons transparent, com ara .png; \u003Cbr> - Somriu amb més freqüència;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Carregueu els vostres propis cursors"
+   },
+   "popup_default_cursor": {
+      "message": "Cursor per defecte"
+   },
+   "popup_manage": {
+      "message": "Gestiona"
+   },
+   "popup_more_cursor": {
+      "message": "Més cursors"
+   },
+   "popup_upload_cursor": {
+      "message": "Càrrega el cursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Valoreu-nos 5 estrelles, si us plau"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

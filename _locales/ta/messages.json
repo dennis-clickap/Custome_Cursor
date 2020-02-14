@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Chrome க்கான தனிப்பயன் கர்சர். இலவசக் கர்சர்களின் பெரிய தொகுப்பைப் பயன்படுத்தவும் அல்லது உங்கள் சொந்த பதிவேற்றவும்."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - தனிப்பயன் கர்சர்"
+   },
+   "cursor_size_extra_large": {
+      "message": "கூடுதல் பெரியது"
+   },
+   "cursor_size_extra_small": {
+      "message": "மிகச்சிறியது"
+   },
+   "cursor_size_large": {
+      "message": "பெரிய"
+   },
+   "cursor_size_medium": {
+      "message": "நடுத்தர"
+   },
+   "cursor_size_small": {
+      "message": "சிறிய"
+   },
+   "delete": {
+      "message": "அழி"
+   },
+   "favorite_by_time": {
+      "message": "நேரம் மூலம்"
+   },
+   "favorite_by_visited_pages": {
+      "message": "பார்வையிட்ட பக்கங்கள்"
+   },
+   "favorite_manage_button": {
+      "message": "பிடித்தவைகளை நிர்வகிக்கவும்"
+   },
+   "favorite_rotate_favorites": {
+      "message": "பிடித்தவைகளை சுழற்று"
+   },
+   "favorite_sec_page": {
+      "message": "நொடி/பக்கம்"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "பிடித்தவைகளை நிர்வகிக்கவும்"
+   },
+   "item_cursor": {
+      "message": "கர்சர்"
+   },
+   "item_pointer": {
+      "message": "சுட்டிக்காட்டி"
+   },
+   "manage_cursor_size_settings": {
+      "message": "கர்சர் அளவு அமைப்புகள்"
+   },
+   "manage_manage_collection": {
+      "message": "சேகரிப்பை நிர்வகி"
+   },
+   "nav_how_to_use": {
+      "message": "எப்படி உபயோகிப்பது"
+   },
+   "nav_manage": {
+      "message": "நிர்வகிக்கவும்"
+   },
+   "nav_more_cursors": {
+      "message": "மேலும் சக்கரங்கள்"
+   },
+   "nav_upload_cursor": {
+      "message": "கர்சரை பதிவேற்றவும்"
+   },
+   "options_add_new": {
+      "message": "புதியனவற்றை சேர்"
+   },
+   "options_upload_recommendations": {
+      "message": "பரிந்துரைகள்: \u003Cbr> - 128x128 பிக்சல்கள் விட படங்களைப் பயன்படுத்த வேண்டாம். - - வெளிப்படையான பின்னணி கொண்ட படங்களைப் பயன்படுத்தவும் .png; \u003Cbr> - அடிக்கடி சிரித்துக் கொள்ளுங்கள்) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "உங்கள் சொந்த இடஞ்சுட்டியைப் பதிவேற்றவும்"
+   },
+   "popup_default_cursor": {
+      "message": "இயல்புநிலை கர்சர்"
+   },
+   "popup_manage": {
+      "message": "நிர்வகிக்கவும்"
+   },
+   "popup_more_cursor": {
+      "message": "மேலும் சக்கரங்கள்"
+   },
+   "popup_upload_cursor": {
+      "message": "கர்சரை பதிவேற்றவும்"
+   },
+   "rate_us_5_stars": {
+      "message": "எங்களுக்கு 5 நட்சத்திரங்களை மதிப்பிடுங்கள்"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

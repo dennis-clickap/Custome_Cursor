@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Cursor personalizat pentru Chrome ™. Utilizați o colecție mare de cursoare gratuite sau încărcați-vă propriile."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Cursor personalizat"
+   },
+   "cursor_size_extra_large": {
+      "message": "Foarte mare"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra mic"
+   },
+   "cursor_size_large": {
+      "message": "Mare"
+   },
+   "cursor_size_medium": {
+      "message": "Mediu"
+   },
+   "cursor_size_small": {
+      "message": "Mic"
+   },
+   "delete": {
+      "message": "Șterge"
+   },
+   "favorite_by_time": {
+      "message": "cu timpul"
+   },
+   "favorite_by_visited_pages": {
+      "message": "de Pagini vizitate"
+   },
+   "favorite_manage_button": {
+      "message": "Gestionați preferințele"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Rotiți favorite"
+   },
+   "favorite_sec_page": {
+      "message": "sec/pagină(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Gestionați preferințele"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "ac indicator"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Setări dimensiune cursor"
+   },
+   "manage_manage_collection": {
+      "message": "Gestionați colecțiile"
+   },
+   "nav_how_to_use": {
+      "message": "Cum se folosește"
+   },
+   "nav_manage": {
+      "message": "Administra"
+   },
+   "nav_more_cursors": {
+      "message": "Mai multe cursoare"
+   },
+   "nav_upload_cursor": {
+      "message": "Încărcați cursorul"
+   },
+   "options_add_new": {
+      "message": "Adăuga nou"
+   },
+   "options_upload_recommendations": {
+      "message": "Recomandări: \u003Cbr> - Nu utilizați imagini mai mult de 128x128 pixeli; \u003Cbr> - Utilizați imagini cu fundal transparent, cum ar fi .png; \u003Cbr> - Zâmbiți mai des;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Încărcați cursorii proprii"
+   },
+   "popup_default_cursor": {
+      "message": "Cursor implicit"
+   },
+   "popup_manage": {
+      "message": "Administra"
+   },
+   "popup_more_cursor": {
+      "message": "Mai multe cursoare"
+   },
+   "popup_upload_cursor": {
+      "message": "Încărcați cursorul"
+   },
+   "rate_us_5_stars": {
+      "message": "Ratează-ne 5 stele, te rog"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

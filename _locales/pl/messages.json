@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Zabawne niestandardowe kursory dla Chrome ™. Użyj dużej kolekcji bezpłatnych kursorów lub prześlij własne."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Zmiana kursora"
+   },
+   "cursor_size_extra_large": {
+      "message": "Bardzo duży"
+   },
+   "cursor_size_extra_small": {
+      "message": "Bardzo mały"
+   },
+   "cursor_size_large": {
+      "message": "Duży"
+   },
+   "cursor_size_medium": {
+      "message": "Średni"
+   },
+   "cursor_size_small": {
+      "message": "Mały"
+   },
+   "delete": {
+      "message": "Kasować"
+   },
+   "favorite_by_time": {
+      "message": "z czasem"
+   },
+   "favorite_by_visited_pages": {
+      "message": "odwiedzanych stron"
+   },
+   "favorite_manage_button": {
+      "message": "Zarządzaj ulubionymi"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Obróć ulubione"
+   },
+   "favorite_sec_page": {
+      "message": "sec/strona"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Zarządzaj ulubionymi"
+   },
+   "item_cursor": {
+      "message": "kursor"
+   },
+   "item_pointer": {
+      "message": "wskaźnik"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Ustawienia rozmiaru kursora"
+   },
+   "manage_manage_collection": {
+      "message": "Zarządzaj kolekcją"
+   },
+   "nav_how_to_use": {
+      "message": "Jak używać"
+   },
+   "nav_manage": {
+      "message": "Zarządzanie"
+   },
+   "nav_more_cursors": {
+      "message": "Więcej kursorów"
+   },
+   "nav_upload_cursor": {
+      "message": "Prześlij kursor"
+   },
+   "options_add_new": {
+      "message": "Dodaj nowe"
+   },
+   "options_upload_recommendations": {
+      "message": "Zalecenia: \u003Cbr> - Nie używaj zdjęć o wymiarach większych niż 128 x 128 pikseli; \u003Cbr> - Używaj obrazów z przezroczystym tłem, takich jak .png; \u003Cbr> - Uśmiechuj się częściej;) \u003Cbr> \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Załaduj własne kursory"
+   },
+   "popup_default_cursor": {
+      "message": "Domyślny kursor"
+   },
+   "popup_manage": {
+      "message": "Zarządzanie"
+   },
+   "popup_more_cursor": {
+      "message": "Więcej kursorów"
+   },
+   "popup_upload_cursor": {
+      "message": "Prześlij kursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Oceń nas 5 gwiazdek, proszę"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

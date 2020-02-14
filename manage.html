@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Custom Cursor for Chrome™</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="Custom Cursors collection for Chrome browser. Giant collection for you to choose from.">
+    <meta name="keywords" content="Custom Cursors, Chrome">
+    <meta name="author" content="Blife">
+    <!-- css -->
+    <link href="assets/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="assets/slider.css" rel="stylesheet" type="text/css"/>
+    <link href="assets/manage.css" rel="stylesheet" type="text/css"/>
+    <link rel="icon" href="assets/favicon.ico">
+    <link href="assets/manage-core.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+
+<div class="container" id="navigation">
+    <nav class="navbar navbar-expand-md">
+        <a class="navbar-brand"
+           href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=manage_logo"
+           target="_blank">
+            <img class="img-fluid"
+                 src="/assets/logo.png"
+                 alt="Custom Cursor for Chrome™"
+                 width="150" height="40"
+                 title="Custom Cursor for Chrome™"></a>
+
+        <div class=" navbar-collapse menu-container" id="navBarMenu">
+            <ul class="menu navbar-nav ml-auto">
+                <li class="nav-item menu-store">
+                    <a class="nav-link" href="options.html"><span data-i18n="nav_upload_cursor"></span></a>
+                </li>
+                <li class="nav-item active menu-store"><a class="nav-link" href="#"><span
+                        data-i18n="nav_manage"></span></a>
+                </li>
+                <li class="nav-item menu-store">
+                    <a class="nav-link" target="_blank"
+                       href="https://custom-cursor.com/?utm_source=ext&utm_medium=links&utm_campaign=manage_more_cursors">
+                        <span data-i18n="nav_more_cursors"></span>
+                    </a>
+                </li>
+                <li class="nav-item menu-store">
+                    <a class="nav-link" target="_blank"
+                       href="https://custom-cursor.com/how-to-use?utm_source=ext&utm_medium=links&utm_campaign=manage_how_to_use"><span
+                            data-i18n="nav_how_to_use">How to use</span></a>
+                </li>
+            </ul>
+
+        </div>
+    </nav>
+</div>
+
+<div class="container-fluid content-size">
+    <div class="container">
+        <div class="row text-center header-size">
+            <div class="col-12">
+                <h3 data-i18n="manage_cursor_size_settings">Cursor Size Settings</h3>
+            </div>
+        </div>
+        <div class="row text-center" id="otherSettings">
+            <div class="col-10 offset-1" id="inputSlider"></div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid container-favorites">
+    <div class="container">
+
+        <div class="row text-center header-favorites">
+            <div class="col-12">
+                <h3 data-i18n="favorite_title_manage_favorites">Manage Favorites</h3>
+            </div>
+        </div>
+
+        <div class="row" data-count-files="1" id="favorites1">
+            <div class="col-12">
+                <div id="rotator">
+                    <div class="row">
+                        <div class="col-12 favorite-options">
+                            <span class="favorite_rotate_favorites" data-i18n="favorite_rotate_favorites">Rotate favorites</span>
+                            <input class="switch" type="checkbox" name="rotator_status" id="rotator_status">
+
+
+                            <span style="padding-top: 2px; margin-right: 10px" data-i18n="favorite_by_time"></span>
+                            <input class="switch switch-type" type="checkbox" id="rotator_type">
+                            <span class="favorite_by_visited_pages" data-i18n="favorite_by_visited_pages"></span>
+
+
+                            <input class="t" id="rotator_type_count" min="10" max="90" type="number">
+                            <span class="favorite_sec_page" data-i18n="favorite_sec_page">sec/page(s)</span>
+
+                        </div>
+                    </div>
+                    <div class="row block-btn">
+                        <div class="col-6 offset-3 text-center">
+                            <button data-toggle="modal" class="btn  btn-info card-link" data-target="#favorites"
+                                    data-i18n="favorite_manage_button" id="bf">Manage Favorites
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="container-fluid container-manage-collections">
+    <div class="container">
+        <div class="container">
+            <div class="row text-center">
+                <div class="col-12 header-collections">
+                    <h3 data-i18n="manage_manage_collection">Manage Collections</h3>
+                </div>
+            </div>
+            <div class="row files-wr box row" id="collection"></div>
+            <div id="dialogs"></div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid mt-3">
+    <footer class="bg-gray navbar-fixed-bottom row-fluid">
+        <div class="sub-footer">
+            <div class="container">
+                <div class="bg-gray navbar-fixed-bottom row-fluid">
+                    <div class="row" style="margin-top: 15px; margin-bottom: 15px">
+                        <div class="col-lg-12 col-md-12 col-sm-12 text-left">
+                            <span class="text-left" style="font-size: 14px !important;">
+                                <span>Icons by Blife, <a
+                                        style="font-size: 14px !important; text-decoration: none; text-transform: lowercase"
+                                        href="https://icons8.com" target="_blank" rel="nofollow noopener">icons8</a>, and other sources.</span>
+                                <span>©Copyright - Blife 2020</span>
+                            </span>
+
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-3 col-md-3 col-sm-12 text-left"></div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 text-left">
+                            <ul style="list-style: none">
+                                <li><a class="nav-link text-right" target="_blank" href="https://community.custom-cursor.com"
+                                       style="font-size: 12px; padding: 0px 5px;">Community</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/editors_picks"
+                                       style="font-size: 12px; padding: 0px 5px;">Editors picks</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/tops"
+                                       style="font-size: 12px; padding: 0px 5px;">Top
+                                    Packs</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/packs"
+                                       style="font-size: 12px; padding: 0px 5px;">New
+                                    Packs</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 text-left">
+                            <ul style="list-style: none">
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/support"
+                                       style="font-size: 12px; padding: 0px 5px;">Support</a></li>
+                                <li><a class="nav-link text-right" target="_blank"
+                                       href="https://chrome.google.com/webstore/detail/custom-cursor-for-chrome/ogdlpmhglpejoiomcodnpjnfgcpmgale/reviews?utm_source=ext&amp;utm_medium=links&amp;utm_campaign=rate_us"
+                                       style="font-size: 12px; padding: 0px 5px;">Rate us</a></li>
+                            </ul>
+                        </div>
+                        <div class="col-lg-3 col-md-3 col-sm-12 text-right">
+                            <ul style="list-style: none">
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/how-to-use"
+                                       style="font-size: 12px; padding: 0px 5px;">How
+                                    to Use</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/terms"
+                                       style=" font-size: 12px; padding: 0px 5px;"
+                                       rel="nofollow">Terms of Use</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/privacy"
+                                       style=" font-size: 12px; padding: 0px 5px;"
+                                       rel="nofollow">Privacy policy</a></li>
+                                <li><a class="nav-link text-right" target="_blank" href="https://custom-cursor.com/en/cookie-policy"
+                                       style=" font-size: 12px; padding: 0px 5px;" rel="nofollow">Cookie policy</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+</div>
+
+
+<a href="#" class="scrollup"><i class="fa fa-angle-up active"></i></a>
+
+<script src="libs/jquery.js"></script>
+<script src="libs/bootstrap.min.js"></script>
+<script src="libs/Localize.js"></script>
+<script src="libs/bootstrap-slider.js"></script>
+<script src="libs/cursor.js"></script>
+
+<script src="libs/info.js"></script>
+
+<script src="manage.js"></script>
+
+</body>
+
+</html>

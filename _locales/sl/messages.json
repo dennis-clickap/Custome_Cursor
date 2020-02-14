@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Kurzor po meri za Chrome ™. Uporabite veliko zbirko brezplačnih kazalcev ali naložite svoje."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Kurzor po meri"
+   },
+   "cursor_size_extra_large": {
+      "message": "Dodatno Velika"
+   },
+   "cursor_size_extra_small": {
+      "message": "Dodatno Majhna"
+   },
+   "cursor_size_large": {
+      "message": "Velika"
+   },
+   "cursor_size_medium": {
+      "message": "Srednje"
+   },
+   "cursor_size_small": {
+      "message": "Majhna"
+   },
+   "delete": {
+      "message": "Izbriši"
+   },
+   "favorite_by_time": {
+      "message": "po Času"
+   },
+   "favorite_by_visited_pages": {
+      "message": "obiskane strani"
+   },
+   "favorite_manage_button": {
+      "message": "Upravljanje priljubljenih"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Zavrtite priljubljene"
+   },
+   "favorite_sec_page": {
+      "message": "sek/stran"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Upravljanje priljubljenih"
+   },
+   "item_cursor": {
+      "message": "kazalec"
+   },
+   "item_pointer": {
+      "message": "kazalec"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Nastavitve velikosti kazalca"
+   },
+   "manage_manage_collection": {
+      "message": "Upravljanje zbirke"
+   },
+   "nav_how_to_use": {
+      "message": "Kako uporabiti"
+   },
+   "nav_manage": {
+      "message": "Upravljanje"
+   },
+   "nav_more_cursors": {
+      "message": "Več kazalcev"
+   },
+   "nav_upload_cursor": {
+      "message": "Naloži kazalec"
+   },
+   "options_add_new": {
+      "message": "Dodaj novo"
+   },
+   "options_upload_recommendations": {
+      "message": "Priporočila: \u003Cbr> - Ne uporabljajte slik, večjih od 128 x 128 slikovnih pik; \u003Cbr> - Uporabljajte slike s prosojnim ozadjem, kot je png;\u003Cbr> - Pogosteje se smejite;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Prenesite svoje kazalce"
+   },
+   "popup_default_cursor": {
+      "message": "Privzeti kazalec"
+   },
+   "popup_manage": {
+      "message": "Upravljanje"
+   },
+   "popup_more_cursor": {
+      "message": "Več kazalcev"
+   },
+   "popup_upload_cursor": {
+      "message": "Naloži kazalec"
+   },
+   "rate_us_5_stars": {
+      "message": "Ocenite nam 5 zvezdic, prosim"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

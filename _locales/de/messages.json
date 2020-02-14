@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Spaß benutzerdefinierte Cursor für Chrome ™. Verwenden Sie eine große Sammlung von freien Cursors oder laden Sie Ihre eigenen hoch."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Cursorwechsler"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra groß"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra klein"
+   },
+   "cursor_size_large": {
+      "message": "Groß"
+   },
+   "cursor_size_medium": {
+      "message": "Mittel"
+   },
+   "cursor_size_small": {
+      "message": "Klein"
+   },
+   "delete": {
+      "message": "Löschen"
+   },
+   "favorite_by_time": {
+      "message": "zum Zeitpunkt"
+   },
+   "favorite_by_visited_pages": {
+      "message": "von Seiten"
+   },
+   "favorite_manage_button": {
+      "message": "Favoriten verwalten"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Favoriten drehen"
+   },
+   "favorite_sec_page": {
+      "message": "sek/seite(n)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Favoriten verwalten"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "zeiger"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Cursorgröße-Einstellungen"
+   },
+   "manage_manage_collection": {
+      "message": "Sammlung verwalten"
+   },
+   "nav_how_to_use": {
+      "message": "Wie benutzt man"
+   },
+   "nav_manage": {
+      "message": "Managen"
+   },
+   "nav_more_cursors": {
+      "message": "Weitere Cursor"
+   },
+   "nav_upload_cursor": {
+      "message": "Cursor hochladen"
+   },
+   "options_add_new": {
+      "message": "Neue hinzufügen"
+   },
+   "options_upload_recommendations": {
+      "message": "Empfehlungen: \u003Cbr> - Verwenden Sie keine Bilder mit mehr als 128 x 128 Pixeln; \u003Cbr> - Verwenden Sie Bilder mit transparentem Hintergrund, z. B. .png; \u003Cbr> - Lächeln Sie häufiger;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Laden Sie Ihre eigenen Cursor hoch"
+   },
+   "popup_default_cursor": {
+      "message": "Standardcursor"
+   },
+   "popup_manage": {
+      "message": "Managen"
+   },
+   "popup_more_cursor": {
+      "message": "Weitere Cursor"
+   },
+   "popup_upload_cursor": {
+      "message": "Cursor hochladen"
+   },
+   "rate_us_5_stars": {
+      "message": "Bewerten Sie uns bitte 5 Sterne"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

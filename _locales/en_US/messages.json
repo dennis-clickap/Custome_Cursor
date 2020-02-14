@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Fun custom cursors for Chrome™. Use a large collection of free cursors or upload your own."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra Large"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra Small"
+   },
+   "cursor_size_large": {
+      "message": "Large"
+   },
+   "cursor_size_medium": {
+      "message": "Medium"
+   },
+   "cursor_size_small": {
+      "message": "Small"
+   },
+   "delete": {
+      "message": "Delete"
+   },
+   "favorite_by_time": {
+      "message": "by Time"
+   },
+   "favorite_by_visited_pages": {
+      "message": "by Visited Pages"
+   },
+   "favorite_manage_button": {
+      "message": "MANAGE FAVORITES"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Rotate favorites"
+   },
+   "favorite_sec_page": {
+      "message": "sec/page(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Manage Favorites"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "pointer"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Cursor Size Settings"
+   },
+   "manage_manage_collection": {
+      "message": "Manage Collections"
+   },
+   "nav_how_to_use": {
+      "message": "How to Use"
+   },
+   "nav_manage": {
+      "message": "Manage"
+   },
+   "nav_more_cursors": {
+      "message": "More cursors"
+   },
+   "nav_upload_cursor": {
+      "message": "Upload cursor"
+   },
+   "options_add_new": {
+      "message": "Add new"
+   },
+   "options_upload_recommendations": {
+      "message": "Recommendations: \u003Cbr> - Don't use pictures more than 128x128 pixels;\u003Cbr> - Use images with a transparent background, such as .png;\u003Cbr> - Smile more often ;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Upload your own cursors"
+   },
+   "popup_default_cursor": {
+      "message": "Default Cursor"
+   },
+   "popup_manage": {
+      "message": "Manage"
+   },
+   "popup_more_cursor": {
+      "message": "More cursors"
+   },
+   "popup_upload_cursor": {
+      "message": "Upload cursor"
+   },
+   "rate_us_5_stars": {
+      "message": "Rate us 5 stars, please"
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

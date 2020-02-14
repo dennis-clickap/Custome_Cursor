@@ -1,0 +1,95 @@
+{
+   "app_description": {
+      "message": "Divertidos cursores personalizados para Chrome ™. Utiliza una gran colección de cursores gratuitos o sube el tuyo."
+   },
+   "app_name": {
+      "message": "Custom Cursor for Chrome™ - Cursor personalizado"
+   },
+   "cursor_size_extra_large": {
+      "message": "Extra grande"
+   },
+   "cursor_size_extra_small": {
+      "message": "Extra Pequeño"
+   },
+   "cursor_size_large": {
+      "message": "Grande"
+   },
+   "cursor_size_medium": {
+      "message": "Medio"
+   },
+   "cursor_size_small": {
+      "message": "Pequeño"
+   },
+   "delete": {
+      "message": "Borrar"
+   },
+   "favorite_by_time": {
+      "message": "A tiempo"
+   },
+   "favorite_by_visited_pages": {
+      "message": "Por páginas"
+   },
+   "favorite_manage_button": {
+      "message": "Editar favoritos"
+   },
+   "favorite_rotate_favorites": {
+      "message": "Rotar favoritos"
+   },
+   "favorite_sec_page": {
+      "message": "segundo/pagina(s)"
+   },
+   "favorite_title_manage_favorites": {
+      "message": "Administrar favoritos"
+   },
+   "item_cursor": {
+      "message": "cursor"
+   },
+   "item_pointer": {
+      "message": "puntero"
+   },
+   "manage_cursor_size_settings": {
+      "message": "Ajustes de tamaño del cursor"
+   },
+   "manage_manage_collection": {
+      "message": "Administrar Colección"
+   },
+   "nav_how_to_use": {
+      "message": "Cómo utilizar"
+   },
+   "nav_manage": {
+      "message": "Gestionar"
+   },
+   "nav_more_cursors": {
+      "message": "Cursor de carga"
+   },
+   "nav_upload_cursor": {
+      "message": "Mas cursores"
+   },
+   "options_add_new": {
+      "message": "Añadir nuevo"
+   },
+   "options_upload_recommendations": {
+      "message": "Recomendaciones: \u003Cbr> - No use imágenes de más de 128x128 píxeles; \u003Cbr> - Use imágenes con un fondo transparente, como .png; \u003Cbr> - Sonríe más a menudo;) \u003Cbr>"
+   },
+   "options_upload_your_own_cursors": {
+      "message": "Sube tus propios cursores"
+   },
+   "popup_default_cursor": {
+      "message": "Predeterminado"
+   },
+   "popup_manage": {
+      "message": "Gestionar"
+   },
+   "popup_more_cursor": {
+      "message": "Mas cursores"
+   },
+   "popup_upload_cursor": {
+      "message": "Cursor de carga"
+   },
+   "rate_us_5_stars": {
+      "message": "Califícanos 5 estrellas, por favor."
+   },
+   "short_name": {
+      "message": "Custom Cursor"
+   }
+}

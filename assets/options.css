@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700,800|Lato:100,400,300,700');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.form-control:focus {
+    border-color: #3fbbc0;
+}
+
+input {
+    display: none
+}
+
+.wrap-custom-file {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin: 0 .5rem 1rem;
+    text-align: center;
+    display: inline-block
+}
+
+.wrap-custom-file input[type=file] {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 2px;
+    height: 2px;
+    overflow: hidden;
+    opacity: 0
+}
+
+.close {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    overflow: hidden;
+    left: 12px;
+    top: 2px;
+}
+
+.close:hover::before, .close:hover::after {
+    background: #1ebcc5;
+}
+
+.close::before, .close::after {
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 100%;
+    top: 50%;
+    left: 0;
+    margin-top: -1px;
+    background: #000;
+}
+
+.close::before {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.close::after {
+    -webkit-transform: rotate(-45deg);
+    -moz-transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -o-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.one-file {
+    background-color: #fff;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .25);
+    height: 100px;
+    margin: 5px 4px 5px 4px
+}
+
+.card {
+    -webkit-box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: row;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, .125);
+    width: 150px;
+    height: 75px;
+    padding: 0px !important;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+
+}
+
+.card .cursor {
+    border-right: 1px silver solid;
+    height: 100%;
+    width: 50%;
+    text-align: center;
+}
+
+.card .pointer {
+    height: 100%;
+    width: 50%;
+    text-align: center;
+}
+
+a.upload {
+    font-size: 30px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+.cursor span.name, .pointer span.name {
+    display: block;
+    font-size: 13px
+}
+
+.remove {
+    background-image: url("/assets/icons/trash.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 20px;
+    height: 20px;
+    display: block;
+    position: absolute;
+    margin-left: 52px;
+    margin-top: -5px;
+}
+
+.remove:hover {
+    transform: scale(1.5);
+}
+
+.pointer a.pbg, .cursor a.cbg {
+    width: 32px;
+    height: 32px;
+    display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+}
+
+.pointer span, .cursor span {
+    font-size: 12px;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.sub-footer {
+    border-top: 1px solid #fafafa;
+    padding: 50px 0 20px;
+}
+
+a.nav-link, footer a, a.upload {
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #666;
+    text-transform: uppercase;
+    font-weight: 700;
+    background: transparent;
+}
+
+a.nav-link:hover, footer a:hover, a.upload:hover {
+    color: #3fbbc0 !important;
+    text-decoration: none;
+}
+
+.btn-danger {
+    background: #ff7575;
+    border: #ff7575;
+}
+
+a.upload {
+    font-size: 24px;
+}
+
+.btn-secondary {
+    background: rgb(66, 66, 66);
+    text-transform: uppercase;
+
+}
+.sub-footer {
+    border-top: 1px solid #fafafa;
+    padding: 20px 0 15px;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #444;
+    line-height: 1.4em;
+}
